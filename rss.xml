@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[SeveDean]]></title>
-        <description><![CDATA[SeveDean]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Explore Your Universe]]></title>
+        <description><![CDATA[Explore Your Universe]]></description>
+        <link>https://thegrid.ai/sevedean/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 13 Mar 2016 13:58:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 14 Mar 2016 12:44:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sevedean/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd84255d-96e1-497e-8ff0-872faea5ad5a.jpg">]]></description>
-            <link>undefinedthis-is-a-website-where-i-explore-the-universe-in-my-own-per/index.html</link>
+            <link>https://thegrid.ai/sevedean/this-is-a-website-where-i-explore-the-universe-in-my-own-per/index.html</link>
             <guid isPermaLink="false">ac59a064-9b2d-4d36-82d7-5c5693fe67bf</guid>
-            <pubDate>Sun, 13 Mar 2016 13:58:09 GMT</pubDate>
+            <pubDate>Mon, 14 Mar 2016 12:43:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
